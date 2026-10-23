@@ -36,3 +36,7 @@
     "layout/archive",
     "layout/sidebar"
 ;
+.sidebar .author__urls li {
+  white-space: normal;
+  overflow-wrap: break-word;
+}
