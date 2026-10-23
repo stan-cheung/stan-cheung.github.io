@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Stan Cheung"
+title: "Home"
 author_profile: true
 redirect_from: 
   - /about/
