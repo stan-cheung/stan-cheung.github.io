@@ -44,6 +44,4 @@ author_profile: true
 ### Sour Grapes Preferences
 *with Martín Serramo*
 
-[PDF]({{ site.baseurl }}/files/paper-in-progress-1.pdf)
-
 **Abstract:** Write your abstract or a short description here.
