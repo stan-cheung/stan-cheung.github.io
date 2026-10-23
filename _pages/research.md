@@ -33,7 +33,7 @@ author_profile: true
 ### Liberal Non-Interference Under a Status Quo
 *with Marco Mariotti and Roberto Veneziani*
 
-[PDF]({{ site.baseurl }}/files/working-paper-1.pdf)
+[PDF]({{ site.baseurl }}/files/Liberal Non-Interference Under a Status Quo.pdf)
 
 **Abstract:** Social welfare relations abstract away from the historical context when evaluating welfare profiles. We study the implications of liberal non-interference for *contextualised social welfare relations* that compare welfare profiles relative to a status quo. We find that a liberal principle that protects individuals against damage, together with standard efficiency, anonymity, continuity, and informational properties, characterises a *maximin difference relation* that is egalitarian with respect to welfare differences rather than welfare levels. Absolute priority is given to individuals who are worst-off relative to the status quo. Each individual is guaranteed a veto over departures from the status quo which reduce their welfare, irrespective of the gains such departures would generate for others.
 
