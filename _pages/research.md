@@ -22,7 +22,7 @@ author_profile: true
 
 *Journal of Economic Theory* 235 (2026), 106204.
 
-[PDF]({{ site.baseurl }}/files/publication-1.pdf)
+[PDF](https://www.sciencedirect.com/science/article/pii/S0022053126000670)
 
 **Abstract:** A *Hard Problem* is a collective choice problem in which the only feasible alternatives to the status quo consist of a welfare gain to some people (the *Winners*) and a welfare loss to others (the *Losers*). These problems are typical in a number of settings, such as climate action, anti-trust regulation, and tax design. We study how to make collective choices when faced with Hard Problems. We find that a relatively weak fairness requirement, which we call *Expansion Solidarity*, necessarily leads to a dictatorship of the Losers, no matter how small their number. Even one single Loser must be given the power to veto any departure from the status quo, regardless of the number of Winners, how large the gains, how small the loss, or how extreme the welfare inequalities.
 
