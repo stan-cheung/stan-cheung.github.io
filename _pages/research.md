@@ -18,7 +18,7 @@ author_profile: true
 ## Publications
 
 ### The Hard Problem and the Tyranny of the Losers
-*with Marco Mariotti and Roberto Veneziani*
+*with [Marco Mariotti](https://sites.google.com/site/marcomariottiwebsite) and [Roberto Veneziani](https://rveneziani.econ.qmul.ac.uk/)*
 
 *Journal of Economic Theory* 235 (2026), 106204.
 
@@ -31,7 +31,7 @@ author_profile: true
 ## Working Papers
 
 ### Liberal Non-Interference Under a Status Quo
-*with Marco Mariotti and Roberto Veneziani*
+*with [Marco Mariotti](https://sites.google.com/site/marcomariottiwebsite) and [Roberto Veneziani](https://rveneziani.econ.qmul.ac.uk/)*
 
 [PDF]({{ site.baseurl }}/files/Liberal Non-Interference Under a Status Quo.pdf)
 
@@ -42,6 +42,6 @@ author_profile: true
 ## Papers in Progress
 
 ### Sour Grapes Preferences
-*with Martín Serramo*
+*with [Martín Serramo](https://economics.stanford.edu/people/martin-serramo)*
 
 **Abstract:** An individual has *sour grapes preferences* when their utility for an outcome decreases as the probability of getting that outcome decreases. Sour grapes preferences can arise in a range of contexts such as aspiration failures, matching markets, and political activism. However, standard revealed preference techniques are unable to separately identify utilities for outcomes when they depend on the probabilities of those outcomes. This paper proposes a method to identify, as well as measure, sour grapes preferences using standard choice data when there are benchmark outcomes whose utilities do not depend on their probabilities. We also propose a test for whether any given outcome is a benchmark outcome. We illustrate this method in a laboratory experiment.
