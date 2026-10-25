@@ -11,7 +11,7 @@ author_profile: true
 
 [PDF]({{ site.baseurl }}/files/job-market-paper.pdf)
 
-**Abstract:** Write your abstract here.
+**Abstract:** Policies can respond to preferences, but preferences can also respond to policies. Endogenous preferences lead to both challenges and opportunities for policy making. A policy that induces preferences which tighten incentive constraints can severely contract the options available to a policy maker. But the converse can greatly expand these options. We propose the concept of a *social welfare equilibrium* for policy evaluation under endogenous preferences. We show that social welfare equilibria also offer a novel way to compare social welfare functions. We illustrate such a comparison in an application to optimal income taxation. We find that more inequality-averse social welfare functions induce more efficient social welfare equilibria, which suggests that equality and efficiency can be complements, rather than substitutes, when preferences are endogenous.
 
 ---
 
@@ -44,4 +44,4 @@ author_profile: true
 ### Sour Grapes Preferences
 *with Martín Serramo*
 
-**Abstract:** Write your abstract or a short description here.
+**Abstract:** An individual has *sour grapes preferences* when their utility for an outcome decreases as the probability of getting that outcome decreases. Sour grapes preferences can arise in a range of contexts such as aspiration failures, matching markets, and political activism. However, standard revealed preference techniques are unable to separately identify utilities for outcomes when they depend on the probabilities of those outcomes. This paper proposes a method to identify, as well as measure, sour grapes preferences using standard choice data when there are benchmark outcomes whose utilities do not depend on their probabilities. We also propose a test for whether any given outcome is a benchmark outcome. We illustrate this method in a laboratory experiment.
