@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-Welcome! I am a PhD candidate at Queen Mary University of London. I visited Stanford University in Spring Quarter 2026.
+Welcome! I am a PhD candidate at Queen Mary University of London. I visited Stanford University in the Spring Quarter 2026.
 
 My main research interests are in welfare economics and social choice theory. I am also interested in behavioural and experimental economics.
 
