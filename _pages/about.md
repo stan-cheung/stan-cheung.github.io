@@ -9,4 +9,4 @@ Welcome! I am a PhD candidate at Queen Mary University of London. I visited Stan
 
 My main research interests are in welfare economics and social choice theory. I am also interested in behavioural and experimental economics.
 
-You can find my CV [here]({{ site.baseurl }}/files/cv.pdf). You can contact me at [stan.cheung@qmul.ac.uk](mailto:stan.cheung@qmul.ac.uk).
+You can find my CV [here]({{ site.baseurl }}/files/Stan_Cheung_CV.pdf). You can contact me at [stan.cheung@qmul.ac.uk](mailto:stan.cheung@qmul.ac.uk).
